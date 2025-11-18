@@ -5,7 +5,7 @@ Selamat datang di portofolio saya! Di sini saya menuliskan **pengalaman**, **hob
 ---
 
 ## 📌 Tentang Saya
-Halo! Nama saya **[Dzakwan Alif]**, saya adalah seorang **[status kamu: mahasiswa]** yang suka mempelajari hal-hal baru terutama di bidang **[bidang minat kamu]**.
+Halo! Nama saya **[Dzakwan Alif]**,Kelas 2IF Infornatika, saya adalah seorang **[status kamu: mahasiswa]** yang suka mempelajari hal-hal baru terutama di bidang **[bidang minat kamu]**.
 
 ---
 
